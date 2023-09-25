@@ -18,10 +18,18 @@ router.get("/position/:lieu", (req, res) => {
             }
         })
         //     // res.send(position)
+})
 
+router.get("/lieu", (req, res) => {
 
+    console.log(req);
+
+    // const lieu = openGeocoder()
+    //     .reverse(-8.945406, 38.575078)
+    //     .end((err, res) => {
+    //         console.log(res);
+    //     })
 
 
 })
-
 module.exports = router
