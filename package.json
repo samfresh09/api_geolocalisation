@@ -1,0 +1,11 @@
+{
+  "name": "api_geolocalisation",
+  "version": "1.0.0",
+  "description": "api  de recuperation de la position des utilisateur",
+  "main": "app",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "samfresh09",
+  "license": "ISC"
+}
